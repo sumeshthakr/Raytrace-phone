@@ -11,7 +11,7 @@ public final class PathEngine {
 
     private final ObjectGroup world;
     private final RenderConfig cfg;
-    private final Random rng = new Random(42);
+    private final Random rng = new Random(); // unseeded for varied results each render
 
     public PathEngine(ObjectGroup world, RenderConfig cfg) {
         this.world = world;

@@ -31,6 +31,7 @@ import java.util.List;
  */
 public class RaytraceMainActivity extends AppCompatActivity {
 
+    // Low resolution for acceptable render times on mobile CPUs (pure Java path tracing)
     private static final int RENDER_WIDTH = 240;
     private static final int RENDER_HEIGHT = 180;
 
