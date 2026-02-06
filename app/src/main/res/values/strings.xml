@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raytrace Phone</string>
+    <string name="scene_label">Scene:</string>
+    <string name="render_action">Render</string>
+    <string name="toggle_shadows">Shadows</string>
+    <string name="toggle_reflections">Reflections</string>
+    <string name="toggle_refractions">Refractions</string>
+    <string name="toggle_ambient_occlusion">Ambient Occlusion</string>
+    <string name="toggle_soft_shadows">Soft Shadows</string>
+    <string name="toggle_antialiasing">Antialiasing</string>
+    <string name="toggle_depth_of_field">Depth of Field</string>
+    <string name="toggle_textures">Textures</string>
+    <string name="slider_fov">Field of View</string>
+    <string name="slider_bounces">Max Bounces</string>
+    <string name="slider_samples">Samples per Pixel</string>
+    <string name="slider_brightness">Brightness</string>
+    <string name="slider_camera_height">Camera Height</string>
+    <string name="slider_camera_distance">Camera Distance</string>
+    <string name="slider_focal_length">Focal Length</string>
+    <string name="slider_aperture">Aperture</string>
+    <string name="rendering_progress">Rendering… %d%%</string>
+    <string name="render_time">Rendered in %dms</string>
+    <string name="controls_header">Controls</string>
+
+    <string-array name="scene_names">
+        <item>Cornell Box Classic</item>
+        <item>Mirror Spheres</item>
+        <item>Glass Prism</item>
+        <item>Metallic Showcase</item>
+        <item>Checkerboard Floor</item>
+        <item>Nested Transparent Spheres</item>
+        <item>Colored Lights</item>
+        <item>Shadow Gallery</item>
+        <item>Fog Depth</item>
+        <item>Cylinder Array</item>
+        <item>Triangle Mesh</item>
+        <item>Plane Intersection</item>
+        <item>Glossy Table</item>
+        <item>Disco Ball</item>
+        <item>Underwater Caustics</item>
+        <item>Sunset Gradient</item>
+        <item>Infinite Mirrors</item>
+        <item>Diamond Refraction</item>
+        <item>Spot Light Demo</item>
+        <item>Mixed Materials</item>
+    </string-array>
+</resources>
